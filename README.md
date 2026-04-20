@@ -18,28 +18,6 @@ I enjoy building scalable web applications and continuously exploring backend te
 * Backend Engineering & System Design
 * Distributed Systems
 
-### 🧰 Tech Stack
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,ts,go,react,nextjs,flask,spring,mysql" />`{=html}
-```{=html}
-</p>
-```
-
-## 🧠 Engineering Focus
-
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-blue?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Backend-Go%20%2F%20Java-green?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/System-Distributed%20Systems-orange?style=for-the-badge" />`{=html}
-```{=html}
-</p>
-```
-
-
 ### 📫 Contact
 
 * Email: [veyliss@163.com](mailto:veyliss@163.com)
